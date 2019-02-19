@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/arianrohani/arianrohani/_apis/build/status/arian-rohani-stratsys.pipelines-python-tutorial?branchName=master)](https://dev.azure.com/arianrohani/arianrohani/_build/latest?definitionId=1&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
